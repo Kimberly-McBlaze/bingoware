@@ -1,4 +1,4 @@
-# This is an archive of the original Bingoware software. For the latest updates, please see [See Bingoware-ng](https://github.com/Kimberly-McBlaze/Bingoware-ng).
+# This is an archive of the original Bingoware software. For the latest updates, please see [Bingoware-ng](https://github.com/Kimberly-McBlaze/Bingoware-ng).
 
 # Bingoware v1.5
 ## http://bingoware.sourceforge.net
@@ -157,6 +157,7 @@ have multiple sets of Bingo cards that do not overwrite one another
 - Look at sessions to be able to save data without using files to improve speed
 - Ability to change the names of the winning patterns from config file
 - Use of external ini file script instead of current settings.php file
+
 
 
 
